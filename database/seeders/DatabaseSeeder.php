@@ -18,7 +18,7 @@ class DatabaseSeeder extends Seeder
 
         //seed super user
         $su = User::factory()->create([
-            'name' => 'SU',
+            'name' => 'Super User',
             'email' => 'admin@example.email',
             'password' => bcrypt('admin@example.email')
         ]);
