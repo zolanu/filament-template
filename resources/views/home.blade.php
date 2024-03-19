@@ -13,6 +13,10 @@
     <h3 style="">
         Zolanu has no content
     </h3>
+    <h3 style="">
+        Testing if the build folder is included.
+    </h3>
+    <a href="/login"><button>Login Page</button></a>
 </body>
 
 </html>
